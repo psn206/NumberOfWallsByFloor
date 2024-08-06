@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\NumberOfWallsByFloor.dll"</Assembly>
+		<AddInId>5758B393-AE66-453E-B306-7A13AE86896A</AddInId>		
+		<FullClassName>NumberOfWallsByFloor.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>К-во стен по этажам</Text>	
+	</AddIn>
+</RevitAddIns>
